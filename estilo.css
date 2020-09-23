@@ -1,0 +1,19 @@
+body{
+    background: url('imagens/bg.jpg') no-repeat;
+    background-size: cover;
+}
+
+.mosquito1{
+    height: 70px;
+    width: 70px;
+}
+
+.mosquito2{
+    height: 100px;
+    width: 100px;
+}
+
+.mosquito3{
+    height: 130px;
+    width: 130px;
+}
